@@ -1,5 +1,5 @@
 # springBoot-thymeleaf-CUDR-database-project
-## The project talks about the employee table so that it displays employees, add new employee, updates employee data, and deletes the employee
+## The project is about the employee's table so it can display employees, add new employee, updates employee info and delete employee
 <br>
 
 
