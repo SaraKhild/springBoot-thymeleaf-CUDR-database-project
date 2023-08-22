@@ -26,6 +26,7 @@
 
 ```
  <dependencies>
+
         <!-- thymeleaf engin for html -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -70,6 +71,7 @@
             <artifactId>hibernate-core</artifactId>
             <version>${hibernate.version}</version>
         </dependency>
+
 </dependencies>
  ```
 <br>
